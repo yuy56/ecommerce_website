@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "fullAddress": "北京市昌平区2",
+        "userId": 2,
+        "consignee": "张龙",
+        "phoneNum": "15011111111",
+        "isDefault": "1"
+    },
+    {
+        "id": 2,
+        "fullAddress": "北京市",
+        "userId": 3,
+        "consignee": "张三",
+        "phoneNum": "1352222222",
+        "isDefault": "0"
+    },
+    {
+        "id": 3,
+        "fullAddress": "湖北省武汉市江夏区",
+        "userId": 4,
+        "consignee": "李四",
+        "phoneNum": "13533333333",
+        "isDefault": "0"
+    },
+    {
+        "id": 4,
+        "fullAddress": "广东省深圳市宝安区",
+        "userId": 5,
+        "consignee": "王五",
+        "phoneNum": "135444444444",
+        "isDefault": "0"
+    }
+]
